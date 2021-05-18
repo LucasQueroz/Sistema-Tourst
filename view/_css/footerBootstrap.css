@@ -1,0 +1,14 @@
+footer {
+    background-color: #2196f3;
+    /*margin-top: 230px;*/
+}
+
+p, h5.text-uppercase {
+	color: #ffffff;
+}
+
+ul.list-unstyled>li>a {
+	color: #ffffff;
+}
+
+

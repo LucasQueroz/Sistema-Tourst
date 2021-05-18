@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/* Formatando o formulário */
+section#corpo_formulario {
+	margin-left: 200px;
+}
+
+fieldset{
+	margin-bottom: 20px;
+	margin-right: 200px;
+}
+
+button {
+	margin-bottom: 50px;
+}

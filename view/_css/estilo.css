@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+
+/* Botões da página */
+button {
+	color: #fff;
+	background-color: red;
+}
+
+
+
+header#cabecalho {
+	background-color: red;
+	padding: 10px;
+}
+
+header#cabecalho p {
+	color: #fff;
+	margin-left: 45px;
+}
+
+header#cabecalho p#sm {
+	font-size: 40px;
+	margin-bottom: -30px;
+	
+}
+
+header#cabecalho p#nomMerc {
+	font-size: 30px;
+}
+
+
+nav#menuPro a {
+	font-size: 20px;
+}
+nav#menuPro li {
+	display: inline-block;
+	background-color: red;
+	padding: 10px;
+}
+
+nav#menuOpc li{
+	display: inline-block;
+	background-color: #000;
+	padding: 10px;
+}
+
+div#interface {
+	background-color: #ffffff;
+	margin: -8px;
+	margin-top: -20px;
+}
+
+table {
+	margin-left: 60px;
+	margin-bottom: 10px;
+}
+
+table#produtos {
+	background-color: #ffffff;
+}
+
+h2 {
+	margin-top: 30px;
+	margin-left: 60px;
+}
+
+
+header#cabecalho img#corrinho {
+	position: absolute;
+	left: 1000px;
+	top: 50px;
+	width: 90px;
+}
+
+
+/*footer#rodape {
+	background-color: #eeeeee;
+	border: 2px solid #000;
+}
+
+footer#rodape p {
+	color: #000;
+	text-align: center;
+}
+
+footer#rodape p#aviso {
+	font-size: 14pt;
+}
+
+footer#rodape p#contato {
+	font-size: 12pt;
+}*/
